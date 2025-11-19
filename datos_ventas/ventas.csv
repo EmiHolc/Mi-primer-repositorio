@@ -1,1 +1,11 @@
-
+ID_Venta,Fecha,Producto,Categoría,Cantidad,Precio_Unitario,Total,Metodo_Pago,Vendedor
+001,2025-01-05,Cuaderno Profesional 100 hojas,Cuadernos,3,2.50,7.50,Efectivo,Ana Torres
+002,2025-01-05,Bolígrafo Azul Punto Fino,Escritura,10,0.35,3.50,Transferencia,Mario López
+003,2025-01-06,Resaltador Amarillo,Marcadores,5,0.80,4.00,Tarjeta,Rosa Vega
+004,2025-01-06,Carpeta Plástica A4,Organización,2,1.20,2.40,Efectivo,Luis Pérez
+005,2025-01-07,Corrector Líquido,Escritura,4,0.90,3.60,Tarjeta,Laura Medina
+006,2025-01-08,Bloc de Notas Adhesivas 3x3,Notas,6,1.10,6.60,Efectivo,Pedro Rosales
+007,2025-01-08,Lápiz Grafito HB,Escritura,12,0.25,3.00,Transferencia,Ana Torres
+008,2025-01-09,Marcador Permanente Negro,Marcadores,4,1.50,6.00,Efectivo,Mario López
+009,2025-01-09,Papel Bond A4 500 hojas,Papel,1,5.80,5.80,Tarjeta,Rosa Vega
+010,2025-01-10,Engrapadora Metálica No. 10,Oficina,1,4.50,4.50,Efectivo,Luis Pérez
