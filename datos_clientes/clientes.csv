@@ -1,1 +1,11 @@
-
+ID_Venta,Fecha,Producto,Descripción,Categoría,Cantidad,Precio_Unitario,Descuento,Total,Cliente,Metodo_Pago,Vendedor
+101,2025-02-01,Cuaderno Universitario,Cuaderno 80 hojas rayado,Cuadernos,2,1.80,0,3.60,Cliente001,Efectivo,Andrés Molina
+102,2025-02-01,Marcador Fluorescente,Color rosado punta biselada,Marcadores,4,0.75,0,3.00,Cliente002,Transferencia,Karla Ruiz
+103,2025-02-02,Lápiz HB,#2 estándar escolar,Escritura,10,0.20,0,2.00,Cliente003,Tarjeta,Andrés Molina
+104,2025-02-02,Carpeta Manila A4,Carpeta sencilla color manila,Organización,5,0.40,0.10,1.90,Cliente004,Efectivo,Karla Ruiz
+105,2025-02-03,Borrador Blanco,Borrador escolar suave,Escritura,8,0.30,0,2.40,Cliente005,Efectivo,Andrés Molina
+106,2025-02-03,Pegamento en Barra,10 g,Adhesivos,3,0.90,0,2.70,Cliente002,Tarjeta,Karla Ruiz
+107,2025-02-04,Papel Bond A4 100 hojas,Papel 75 g/m2,Papel,2,2.20,0,4.40,Cliente006,Transferencia,Andrés Molina
+108,2025-02-04,Tijeras Escolares,Borde redondeado,Oficina,1,1.50,0,1.50,Cliente003,Efectivo,Karla Ruiz
+109,2025-02-05,Engrapadora Pequeña,Incluye 100 grapas,Oficina,1,3.20,0.20,3.00,Cliente007,Tarjeta,Andrés Molina
+110,2025-02-05,Regla Plástica 30cm,Transparente,Medición,3,0.50,0,1.50,Cliente008,Efectivo,Karla Ruiz
