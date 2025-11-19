@@ -1,11 +1,12 @@
-ID_Venta,Fecha,Producto,Descripción,Categoría,Cantidad,Precio_Unitario,Descuento,Total,Cliente,Metodo_Pago,Vendedor
-101,2025-02-01,Cuaderno Universitario,Cuaderno 80 hojas rayado,Cuadernos,2,1.80,0,3.60,Cliente001,Efectivo,Andrés Molina
-102,2025-02-01,Marcador Fluorescente,Color rosado punta biselada,Marcadores,4,0.75,0,3.00,Cliente002,Transferencia,Karla Ruiz
-103,2025-02-02,Lápiz HB,#2 estándar escolar,Escritura,10,0.20,0,2.00,Cliente003,Tarjeta,Andrés Molina
-104,2025-02-02,Carpeta Manila A4,Carpeta sencilla color manila,Organización,5,0.40,0.10,1.90,Cliente004,Efectivo,Karla Ruiz
-105,2025-02-03,Borrador Blanco,Borrador escolar suave,Escritura,8,0.30,0,2.40,Cliente005,Efectivo,Andrés Molina
-106,2025-02-03,Pegamento en Barra,10 g,Adhesivos,3,0.90,0,2.70,Cliente002,Tarjeta,Karla Ruiz
-107,2025-02-04,Papel Bond A4 100 hojas,Papel 75 g/m2,Papel,2,2.20,0,4.40,Cliente006,Transferencia,Andrés Molina
-108,2025-02-04,Tijeras Escolares,Borde redondeado,Oficina,1,1.50,0,1.50,Cliente003,Efectivo,Karla Ruiz
-109,2025-02-05,Engrapadora Pequeña,Incluye 100 grapas,Oficina,1,3.20,0.20,3.00,Cliente007,Tarjeta,Andrés Molina
-110,2025-02-05,Regla Plástica 30cm,Transparente,Medición,3,0.50,0,1.50,Cliente008,Efectivo,Karla Ruiz
+ID_Cliente,Nombre,Apellido,Correo,Teléfono,Dirección,Fecha_Registro,Tipo_Cliente
+C001,Ana,Martínez,ana.martinez@example.com,0987654321,Avenida Central 123,2024-11-10,Frecuente
+C002,Carlos,Gómez,carlos.gomez@example.com,0912345678,Calle Los Cedros 45,2024-11-12,Ocasional
+C003,María,López,maria.lopez@example.com,0998765432,Barrio El Sol 33,2024-11-15,Frecuente
+C004,Pedro,Ramírez,pedro.ramirez@example.com,0976543210,Callejón 8 de Octubre 10,2024-11-18,Nuevo
+C005,Sofía,Herrera,sofia.herrera@example.com,0965432109,Avenida Libertad 77,2024-11-20,Frecuente
+C006,Andrés,Salazar,andres.salazar@example.com,0954321098,Calle Primavera 12,2024-11-22,Ocasional
+C007,Laura,Villalba,laura.villalba@example.com,0943210987,Barrio La Esperanza 60,2024-11-25,Frecuente
+C008,Jorge,Castillo,jorge.castillo@example.com,0932109876,Avenida del Maestro 88,2024-11-27,Ocasional
+C009,Elena,Chávez,elena.chavez@example.com,0921098765,Calle Tulipanes 115,2024-11-30,Frecuente
+C010,Diego,Mendoza,diego.mendoza@example.com,0910987654,Barrio San José 14,2024-12-02,Frecuente
+
